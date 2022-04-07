@@ -31,6 +31,10 @@ section{
     padding:2rem 9%;
 }
 
+.mt {
+    margin-top:3.2rem;
+}
+
 .heading{
     padding-bottom: 2rem;
     text-align: center;
