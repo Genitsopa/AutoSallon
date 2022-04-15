@@ -517,6 +517,13 @@ a.btn.home-parallax {
     color:var(--black);
 }
 
+@media (max-width:1260px){
+    iframe {
+        width: 100%;
+        padding: 3.2rem;
+    }
+}
+
 
 @media (max-width:991px){
 
@@ -535,11 +542,6 @@ a.btn.home-parallax {
     section{
         padding:2rem;
     }   
-
-    iframe {
-        width: 100%;
-        padding: 3.2rem;
-    }
 }
 
 @media (max-width:768px){
