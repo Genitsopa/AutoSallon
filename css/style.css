@@ -535,6 +535,11 @@ a.btn.home-parallax {
     section{
         padding:2rem;
     }   
+
+    iframe {
+        width: 100%;
+        padding: 3.2rem;
+    }
 }
 
 @media (max-width:768px){
